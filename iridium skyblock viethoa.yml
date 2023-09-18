@@ -1,22 +1,22 @@
 ---
 reloaded: "%prefix% &7Configuration has been reloaded."
-noPermission: "%prefix% &7You don't have permission for that."
+noPermission: "%prefix% &7Không có quyền!"
 mustBeAPlayer: "%prefix% &7You must be a player to execute this command."
-notAPlayer: "%prefix% &7That player doesn't exist."
-unknownCommand: "%prefix% &7Unknown Command, Try /is help."
+notAPlayer: "%prefix% &7Người chơi đó không tồn tại."
+unknownCommand: "%prefix% &7Không rõ lệnh, Thử /is help."
 helpCommandHeader: "&8[&9&lIridiumSkyblock Help&8]"
 helpCommandFiller: "&8&m "
 helpCommandMessage: "&9/is %command%&r: &7%description%"
-helpCommandFooter: " &7Page %page% of %max_page% "
+helpCommandFooter: " &7Trang %page% tới %max_page% "
 helpCommandPreviousPage: "&9<<"
 helpCommandNextPage: "&9>>"
-helpCommandNextPageHover: "&7Click to go to the next page."
-helpCommandPreviousPageHover: "&7Click to go to the previous page."
-alreadyHaveTeam: "%prefix% &7You already have a Island"
-teamNameAlreadyExists: "%prefix% &7A Island by that name already exists"
-teamNameTooShort: "%prefix% &7This Island name is too short. It must be at least %min_length%\
+helpCommandNextPageHover: "&7Nhấn vào đây để đi đến trang tiếp theo."
+helpCommandPreviousPageHover: "&7Nhấn vào đây để đi đến trang trước."
+alreadyHaveTeam: "%prefix% &7Bạn đã có một hòn đảo"
+teamNameAlreadyExists: "%prefix% &7Một hòn đảo có tên đó đã tồn tại"
+teamNameTooShort: "%prefix% &7Tên đảo này quá ngắn. Ít nhất nó phải %min_length%\
   \ characters long."
-teamNameTooLong: "%prefix% &7This Island name is too long. It must be at most %max_length%\
+teamNameTooLong: "%prefix% &7Tên đảo này quá dài. Nhiều nhất phải thế %max_length%\
   \ characters long."
 teamCreated: "%prefix% &7Island Creation Completed!"
 teamDeleted: "%prefix% &7%player% has deleted your Island!"
